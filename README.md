@@ -41,6 +41,11 @@ Using the decorator pattern to quickly generate custom while also prewritten mes
 * inject %spammerName% a random guy
 * finish
 
+##Dependencies:
+Python 3
+SQLAlchemy Library
+
+
 ##Sample finished message
 >Hello clueless individual,
 >
