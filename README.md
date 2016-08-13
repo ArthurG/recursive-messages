@@ -42,8 +42,8 @@ Using the decorator pattern to quickly generate custom while also prewritten mes
 * finish
 
 ##Dependencies:
-Python 3
-SQLAlchemy Library
+* Python 3
+* SQLAlchemy Library
 
 
 ##Sample finished message
@@ -55,4 +55,4 @@ SQLAlchemy Library
 >a random guy
 
 ##This application is pretty useless. It's mostly just a proof of concept for a usefull possible web application (to be discussed at a future date) and also the first application I created using Vim. 
-####GO TEAM VI
+######GO TEAM VI
